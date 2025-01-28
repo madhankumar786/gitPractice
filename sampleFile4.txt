@@ -1,0 +1,3 @@
+sampleFile4 line1
+sampleFile4 line2
+sampleFile4 line3
