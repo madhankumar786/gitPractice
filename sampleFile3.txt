@@ -1,2 +1,1 @@
-sampleFile3 line
-sampleFile3 line2
+sample3 line1
